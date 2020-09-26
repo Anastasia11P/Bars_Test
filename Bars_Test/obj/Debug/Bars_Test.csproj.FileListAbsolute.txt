@@ -1,0 +1,11 @@
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\bin\Debug\Bars_Test.exe.config
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\bin\Debug\Bars_Test.exe
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\bin\Debug\Bars_Test.pdb
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.csprojAssemblyReference.cache
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.Form1.resources
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.Properties.Resources.resources
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.csproj.GenerateResource.cache
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.exe
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.pdb
+C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.FormReports.resources
