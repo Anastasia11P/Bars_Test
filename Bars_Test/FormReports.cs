@@ -33,6 +33,9 @@ namespace Bars_Test
 
         private void buttonPrintReport_Click(object sender, EventArgs e)
         {
+            if (!File.Exists(Application.StartupPath.ToString() + "\\Отчеты"))
+                Directory.CreateDirectory(Application.StartupPath.ToString() + "\\Отчеты");
+
             if (checkBox1.Checked) 
             {
                 printReport1(BaseEnterprise);

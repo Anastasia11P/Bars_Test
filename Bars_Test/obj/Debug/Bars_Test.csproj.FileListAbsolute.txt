@@ -9,3 +9,14 @@ C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.csproj.CoreCo
 C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.exe
 C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.pdb
 C:\Users\Anastasia\Desktop\Bars_Test\Bars_Test\obj\Debug\Bars_Test.FormReports.resources
+C:\projects\Bars_Test\Bars_Test\bin\Debug\Bars_Test.exe.config
+C:\projects\Bars_Test\Bars_Test\bin\Debug\Bars_Test.exe
+C:\projects\Bars_Test\Bars_Test\bin\Debug\Bars_Test.pdb
+C:\projects\Bars_Test\Bars_Test\obj\Debug\Bars_Test.csprojAssemblyReference.cache
+C:\projects\Bars_Test\Bars_Test\obj\Debug\Bars_Test.Form1.resources
+C:\projects\Bars_Test\Bars_Test\obj\Debug\Bars_Test.FormReports.resources
+C:\projects\Bars_Test\Bars_Test\obj\Debug\Bars_Test.Properties.Resources.resources
+C:\projects\Bars_Test\Bars_Test\obj\Debug\Bars_Test.csproj.GenerateResource.cache
+C:\projects\Bars_Test\Bars_Test\obj\Debug\Bars_Test.csproj.CoreCompileInputs.cache
+C:\projects\Bars_Test\Bars_Test\obj\Debug\Bars_Test.exe
+C:\projects\Bars_Test\Bars_Test\obj\Debug\Bars_Test.pdb
